@@ -1,11 +1,13 @@
-# Coders of XDA OT - Group Website
+# Coders of XDA-OT Website
 
-### Technologies Used
+## Built with 
 
-| _Field_    |           _Tech_            |
-| ---------- | :-------------------------: |
-| Frontend   |       React + Next.js       |
-| Backend    | Node (Typescript) + Express |
-| Packages   |            Yarn             |
-| Storage    |       Mongo/Postgres?       |
-| Containers |           Docker            |
+|        **Field**       	|             **Tech**             	                                            |
+|:----------------------: |:-----------------------------------------------------------------------------:|
+| Frontend        	      | [React](https://reactjs.org) + [Next.js](https://nextjs.org)         	        |
+| Backend        	        | [Node.js (Typescript)](https://nodejs.org) + [Express](https://expressjs.com) |
+| Package Manager    	    | [Yarn](https://yarnpkg.com/)               	                                  |
+| Database<sup>TBD</sup> 	| [MongoDB](https://www.mongodb.com/)/[PostgreSQL](https://www.postgresql.org/) |
+| Containers       	      | [Docker](https://www.docker.com) 	                                            |
+
+> **TBD** - To Be Decided
